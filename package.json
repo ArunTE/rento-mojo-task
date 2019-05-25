@@ -10,11 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "crawler": "^1.2.1",
     "express": "^4.16.3",
+    "html-parse-stringify": "^1.0.3",
     "lodash": "^4.17.11",
     "mysql2": "^1.6.4",
     "react-native-uuid": "^1.4.9",
-    "sequelize": "^4.38.0"
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "sequelize": "^4.38.0",
+    "striptags": "^3.1.1"
   }
 }
